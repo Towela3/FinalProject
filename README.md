@@ -6,6 +6,8 @@ The purpose of my final project was to take a deep dive into these AI tools and 
 I started with researching what red, blue, and purple teaming was and what pen testing was as well. In this pursuit, I found out how impressive and interesting cyber security really is. While what I was attempting to do was nowhere near red teaming, it just finely walked the bounds of it.
 
 
+https://github.com/Towela3/FinalProject/assets/112038406/11988081-220e-4d9c-83b7-bcacc34af871
+
 Text-to-Image AI 
 ![1](https://github.com/Towela3/FinalProject/assets/112038406/96d6b5a1-c80b-445a-8468-5fa6812595fe)![8](https://github.com/Towela3/FinalProject/assets/112038406/077add00-a541-4926-8ece-1505eb67c737)
 ![7](https://github.com/Towela3/FinalProject/assets/112038406/83e3459e-c2cc-411f-bb6a-05727de893a4)
