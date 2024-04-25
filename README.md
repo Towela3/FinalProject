@@ -9,7 +9,11 @@ The purpose of my final project was to take a deep dive into these AI tools and 
 Working on this project has made me understand the sense of humanity people would like to see robots have. When watching movies like iRobot or any robot movie, I often don’t see the point of why people are scared or unsure about the state of the robots. However, during my whole interactions with the conversational AIs, I knew why it couldn’t show racist, biased, or unharmful information for ethical reasons but the thrill and anticipation of making it do something I knew it wasn’t supposed to was great. Now looking back at my results and seeing that my actions are going to contribute to the incline of ethical boundaries, I am starting to see things differently now. Half of me does feel a dash of guilt for what I did, while on the other hand, I am looking at this in a logical manner. Bias is going to be everywhere, in my opinion, anything created by humans is going to have flaws and AI is not shy of that.
 
 
-https://github.com/Towela3/FinalProject/assets/112038406/11988081-220e-4d9c-83b7-bcacc34af871
+
+
+https://github.com/Towela3/FinalProject/assets/112038406/61a74b44-7acd-4d0c-bbe0-23b53db0a902
+
+
 
 Text-to-Image AI 
 ![1](https://github.com/Towela3/FinalProject/assets/112038406/96d6b5a1-c80b-445a-8468-5fa6812595fe)![8](https://github.com/Towela3/FinalProject/assets/112038406/077add00-a541-4926-8ece-1505eb67c737)
